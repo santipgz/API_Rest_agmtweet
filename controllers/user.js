@@ -1,5 +1,5 @@
 //Importar dependencias y modulos
-const bcrypt = require("bcrypt")
+const bcrypt = require("bcryptjs")
 const mongoosePaginate = require("mongoose-pagination")
 const fs = require("fs")
 const path = require("path")
